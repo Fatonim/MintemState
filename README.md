@@ -23,7 +23,7 @@
 ---
 
 ## In-game screenshots
-[Screenshots](./Screenshots
+[Screenshots](./Screenshots)
 
 ---
 
