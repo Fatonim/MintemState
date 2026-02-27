@@ -14,15 +14,6 @@
 
 ---
 
-## 📂 Repository Structure
-
-Script/ — Core game logic and C# scripts
-graphics_only/ — Sprites, textures, and visual assets
-MintemState.apk — Playable Android build
-README.md — Project description and instructions
-
----
-
 ## 🚀 Installation
 
 1. **Download the APK**  
@@ -38,9 +29,9 @@ README.md — Project description and instructions
 
 ## 🛠️ Built With
 
-- **C#** – Core game logic and mechanics  
-- **Unity / Custom engine** – Rendering and game loop (depending on your project setup)  
-- **State-driven architecture** – Handles player actions, crafting, and world updates  
+- **C#**  
+- **Unity / Custom engine**  
+- **Aseprite**
 
 ---
 
