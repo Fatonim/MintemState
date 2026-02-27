@@ -22,7 +22,7 @@
 
 ---
 
-## In-game screenshots
+## 📸 In-game screenshots
 [Screenshots](./Screenshots)
 
 ---
