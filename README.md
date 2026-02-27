@@ -4,16 +4,6 @@
 
 ---
 
-## 🌟 Key Features
-
-- **Explore a dynamic world:** Traverse diverse terrains and uncover hidden areas.  
-- **Crafting system:** Collect resources to create weapons, tools, and useful items.  
-- **Survival mechanics:** Survive challenging nights with limited resources.  
-- **Hidden mystery:** Solve puzzles and find the main mystery hidden in the game world.  
-- **Custom graphics:** Pixel-style 2D art and interactive environments.
-
----
-
 ## 🚀 Installation
 
 1. **Download the APK**  
@@ -24,6 +14,16 @@
 3. **Install the APK** and open the game.  
 
 4. **Start exploring, crafting, and surviving!**  
+
+---
+
+## 🌟 Key Features
+
+- **Explore a dynamic world:** Traverse diverse terrains and uncover hidden areas.  
+- **Crafting system:** Collect resources to create weapons, tools, and useful items.  
+- **Survival mechanics:** Survive challenging nights with limited resources.  
+- **Hidden mystery:** Solve puzzles and find the main mystery hidden in the game world.  
+- **Custom graphics:** Pixel-style 2D art and interactive environments.
 
 ---
 
